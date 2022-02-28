@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The severall accompts of Sir John Gell, Baronet and Colonell, and of his brother Thomas Gell, Esquire, Lievetenant Colonell. Published to cleare their innocency from false imputations.</title>
+            <author>Gell, John, Sir, 1593-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92966</idno>
+            <idno type="STC">Wing S2745</idno>
+            <idno type="STC">Thomason E273_15</idno>
+            <idno type="STC">ESTC R212336</idno>
+            <idno type="EEBO-CITATION">99870966</idno>
+            <idno type="PROQUEST">99870966</idno>
+            <idno type="VID">159481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159481)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E273[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The severall accompts of Sir John Gell, Baronet and Colonell, and of his brother Thomas Gell, Esquire, Lievetenant Colonell. Published to cleare their innocency from false imputations.</title>
+                  <author>Gell, John, Sir, 1593-1671.</author>
+                  <author>Gell, Thomas, 1594-1656.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.L.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1644 [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1644[5]; Thomason catalogue lists under 1645.</note>
+                  <note>Annotation on Thomason copy: "March: 17th". Thomason catalogue lists under February 17.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gell, Thomas, 1594-1656 --  Early works to 1800.</term>
+               <term>Gell, John, --  Sir, 1593-1671 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159481:1" rendition="simple:additions"/>
+            <p>The ſeverall ACCOMPTS OF SIR <hi>JOHN GELL,</hi> Baronet and Colonell, AND OF His Brother <hi>THOMAS GELL,</hi> Eſquire; Lievetenant Colonell.</p>
+            <p>Publiſhed to cleare their Innocency from falſe Imputations.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. L.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159481:2"/>
+            <pb n="1" facs="tcp:159481:2"/>
+            <head>The ſeverall Accompts of Sir IOHN GELL Baronet and Colonell; and of his Bro<g ref="char:EOLhyphen"/>ther THOMAS GELL Eſquire, Lievtenant Co<g ref="char:EOLhyphen"/>lonell, publiſhed to cleare their Innocency from falſe Imputations.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas we two Brothers have faith<g ref="char:EOLhyphen"/>fully ſerved the Parliament at our owne charge, ſince the beginning of theſe un<g ref="char:EOLhyphen"/>happy Differences betweene the King and Parliament, having hitherto recei<g ref="char:EOLhyphen"/>ved no more then by the enſuing Accompts appears.</p>
+            <p>When the Enemies of this Commonwealth had ſetled themſelves in <hi>Darby Shire</hi> our native Country, divers Noblemen and Gentlemen then reſiant there, yet they ſuffered the County to be oppreſſed by Pa<g ref="char:EOLhyphen"/>piſts and Strangers; we then took up Armes, drove away thoſe plunderers, and after many conflicts with potent adverſaries, by the bleſſing of God upon our endeavours, with ſome aſſiſtance from the Right Honourable Earle of <hi>Mancheſter,</hi> and ſome <hi>Notting<g ref="char:EOLhyphen"/>ham</hi> Forces only at the ſiege of <hi>Wingfield Mannour,</hi> we have cleared that County of all enemy Garriſons, and often been aſsiſtant to ſeverall other Countreys. Yet ſuch is the malice of ſome Malignants and o<g ref="char:EOLhyphen"/>thers that fled their Countrey in time of danger, that that they have falſly and ſcandalouſly raiſed a report,
+<pb n="2" facs="tcp:159481:3"/>that Sir <hi>Iohn Gell</hi> hath cozened his Countrey of twenty thouſand pounds, which falſe report they have maliciouſly ſpred both in <hi>London</hi> and divers other Counties: They have alſo procured ſome of them<g ref="char:EOLhyphen"/>ſelves, and other profeſſed enemies of Sir <hi>Iohn Gell,</hi> ſuch as he had formerly committed for malignancy, to be Auditors to take theſe Accompts, which ac<g ref="char:EOLhyphen"/>cordingly were given in upon Oath at <hi>Darby</hi> upon the ſeventeenth day of <hi>February</hi> one thouſand ſix hundred forty foure; by which it appeares, how falſe that ſcandalous report was. Yet ſuch is the continued malice of ſome of theſe men, that though they be fully ſatisfied of the truth themſelves, as they pro<g ref="char:EOLhyphen"/>feſſed at the taking of theſe Accompts; yet they en<g ref="char:EOLhyphen"/>deavour to conceale theſe Accompts, that other men may ſtill beleeve that falſe report, whereof themſelves were Authors. To the end therefore that our Inno<g ref="char:EOLhyphen"/>cency may appeare, notwithſtanding theſe mens ma<g ref="char:EOLhyphen"/>lice, we have here publiſhed our ſeverall Accompts, which as they were at firſt given in upon our ſeverall Oathes, ſo we ſtill juſtify the ſame to be true, and doe ſeverally and reſpectively profeſſe before God and the world, upon the faith of Chriſtians, the cre<g ref="char:EOLhyphen"/>dit and reputation of Gentlemen and Souldiers, that our ſaid Accompts are true, and that we doe not know, or are conſcious of any errour or untruth in either of them.</p>
+            <div type="account">
+               <pb n="3" facs="tcp:159481:3"/>
+               <head>The Accompt of Sir IOHN GELL.</head>
+               <p>AFter the King had ſet up his <hi>Standard</hi> at <hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> and came with his new Army from thence to <hi>Darby,</hi> many of our countrey Gen<g ref="char:EOLhyphen"/>tlemen with our Trayned Bands met his Majeſty in the confines of this County, and joyned with him; ſome went then into the Kings ſervice, and the reſt delivered up their Armes to the Kings party, by which means his Army was encreaſed both with men and armes. After the King went out of this Coun<g ref="char:EOLhyphen"/>ty, two mean popiſh Strangers <hi>Dennis</hi> and <hi>Ballard,</hi> joyning with ſome papiſts and others ill affected, ſetled themſelves at <hi>Wirkſworth,</hi> about the middle of the County, and there under colour of rayſing men for the King, they robbed and abuſed honeſt men without controle, although at the ſame time there were foure Earles, one Baron, and divers Kinghts and Gentlemen then reſiant in this County; whereupon I being ſenſible of my Countries mi<g ref="char:EOLhyphen"/>ſery, and willing to maintaine the Ordinances of Parliament, I went to <hi>Hull</hi> to procure ſome Forces according to his Excellencies the Earle of <hi>Eſſex</hi> his Commiſſion to me; and whileſt I was there, Sir <hi>Francis Wortley</hi> with about an hundred fol<g ref="char:EOLhyphen"/>fowers fit for ſuch a leader, came and joyned him<g ref="char:EOLhyphen"/>ſelfe with the ſaid <hi>Dennis</hi> and <hi>Ballard;</hi> whereupon many honeſt men were forced to flie, ſome of which came to me, and earneſtly deſired me to make haſt to redeeme my then miſerable afflicted Coun<g ref="char:EOLhyphen"/>trey,
+<pb n="4" facs="tcp:159481:4"/>I haſted homeward and came to <hi>Cheſterfeild,</hi> endevouring to encreaſe my ſtrength all I could: at my firſt comming thither, ſome Lords and divers Gentlemen met together about <hi>Tutbury,</hi> and ſent me a threatning letter, although in the meane time they never moleſted neither <hi>Wortley</hi> nor any of that party; I preſently advanced and drove out <hi>Wortley</hi> with all his Company, and then ſetled my ſelfe at <hi>Derby,</hi> which by Gods bleſſing I have ever ſince maintained againſt all the power of Prince <hi>Rupert,</hi> the Earle of <hi>Newcaſtle,</hi> and Generall <hi>Haſtings;</hi> and at this preſent the Enemy hath not one Garriſon with<g ref="char:EOLhyphen"/>in this County: When I went firſt to <hi>Hull</hi> with my brother, I went at my own charge, and raiſed my men without any penny of advance money, ſince that time and in this ſervice, I have ſold my Stock, laid out my whole Revenew, which at that time was fifteene hundred pounds a yeare, borrowed money of my brother and others, married my only Sonne, received part of his Portion, all which I have ſpent in maintainance of the Parliaments Cauſe; beſides, I had my Houſe plundered, and nothing left but the bare walls, and the malice of the Enemy extended ſo farre, as to ruine and deface the Tombs and Monuments of my deceaſed Anceſtors. In recompence towards all my loſſes and expences, I have received from Mr <hi>Hallowes</hi> Treaſurer for the County, to my beſt knowledge about two hun<g ref="char:EOLhyphen"/>dred fifty ſix pounds, and no more, but for certainty therein I referre my ſelfe to his Accompt: And he had from me one hundred eighty pounds, or thereabouts, for which alſo I referre my ſelfe to his
+<pb n="5" facs="tcp:159481:4"/>accompt: For Jewels and Plate, I never received any pennyworth, nor of any other kinde of goods, except only a few Horſes, all which were employed in the publike ſervice. The truth of all which I juſtifie upon my Oath</p>
+               <closer>
+                  <dateline>
+                     <hi>Derby</hi> 
+                     <date>
+                        <hi>Feb.</hi> 17. 1644.</date>
+                  </dateline>
+                  <signed>JOHN GELL.</signed>
+               </closer>
+            </div>
+            <div type="account">
+               <head>The Accompt of Lievetenant Colonell GELL.</head>
+               <p>I Have to my power faithfully ſerved the Par<g ref="char:EOLhyphen"/>liament; I never received one penny pay for my ſelfe, nor pennyworth of any Plate, Jewels, or other Goods towards the ſame: I have laid out many hundred pounds of my owne eſtate, in the raiſing, arming, and paying of Souldiers, and other neceſſary expences for maintenance of that ſervice, for which I have not yet received ſatisfaction, as by my Accompt upon Oath fully appeares.</p>
+               <closer>
+                  <signed>THO. GELL.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
